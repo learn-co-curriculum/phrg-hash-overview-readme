@@ -231,3 +231,4 @@ Enjoy hashing it out!
 
 * [Intro to Hashes](http://ruby-for-beginners.rubymonstas.org/built_in_classes/hashes.html)
 * [RubyMonk Hashes](http://rubymonk.com/learning/books/1-ruby-primer/chapters/10-hashes-in-ruby/lessons/46-introduction-to-ruby-hashes)
+<p data-visibility='hidden'>PHRG Hashes</p>
