@@ -231,4 +231,7 @@ Enjoy hashing it out!
 
 * [Intro to Hashes](http://ruby-for-beginners.rubymonstas.org/built_in_classes/hashes.html)
 * [RubyMonk Hashes](http://rubymonk.com/learning/books/1-ruby-primer/chapters/10-hashes-in-ruby/lessons/46-introduction-to-ruby-hashes)
+
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-hash-overview-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-hash-overview-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 <p data-visibility='hidden'>PHRG Hashes</p>
